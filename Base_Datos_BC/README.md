@@ -17,32 +17,32 @@
 
 ### Vista Detalle Venta 
 
-[.](/assets/vw_detalle_venta.png)
+![](/assets/vw_detalle_venta.png)
 
 
 ### Vista Detalle Pedido Proveedor 
 
-[.](/assets/vw_pedido_proveedor.png)
+![](/assets/vw_pedido_proveedor.png)
 
 
 ### Vista Informacion Cliente 
 
-[](/assets/vw_clientes_info.png)
+![](/assets/vw_clientes_info.png)
 
 
 ### Vista Detalle Reserva 
 
-[](/assets/vw_Reserva_Detalle.png)
+![](/assets/vw_Reserva_Detalle.png)
 
 
 ### Vista Detalle Stock 
 
-[](/assets/vw_stock_detalle.png)
+![](/assets/vw_stock_detalle.png)
 
 
 ### Dashboard Detalle Venta 
 
-[](/assets/Dashboard_ventas.png)
+![](/assets/Dashboard_ventas.png)
 
 
 --- 
