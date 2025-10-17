@@ -127,20 +127,20 @@ Rango Temporal: 2024 - 2025
 ## 🎯 Objetivos Cumplidos
 
 **Gestión Operativa**
-✅ Control completo de inventario TCG
-✅ Procesamiento eficiente de ventas
-✅ Gestión de compras a proveedores
-✅ Sistema de reservas para preventas
+- ✅ Control completo de inventario TCG
+- ✅ Procesamiento eficiente de ventas
+- ✅ Gestión de compras a proveedores
+- ✅ Sistema de reservas para preventas
 
 **Seguridad y Control**
-✅ Roles y permisos de usuario
-✅ Auditoría completa de operaciones
-✅ Trazabilidad de cambios
+- ✅ Roles y permisos de usuario
+- ✅ Auditoría completa de operaciones
+- ✅ Trazabilidad de cambios
 
 **Análisis y Business Intelligence**
-✅ Dashboard interactivo Power BI
-✅ Reportes ejecutivos automatizados
-✅ Análisis de tendencias 2024-2025
+- ✅ Dashboard interactivo Power BI
+- ✅ Reportes ejecutivos automatizados
+- ✅ Análisis de tendencias 2024-2025
 
 
 ## 🚀 Características Destacadas
@@ -155,5 +155,5 @@ Rango Temporal: 2024 - 2025
 
 --- 
 
-*Proyecto desarrollado como solución integral para la gestión de negocios especializados en Trading Card Games.*
+*Proyecto desarrollado como solución integral para la gestión de negocios especializados en Trading Card Games. Haz click en [Base de Datos](/Base_Datos_BC/README.md) para poder comenzar a ver los scripts y empezar a ejecutarlo*
 
